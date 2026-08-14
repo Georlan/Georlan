@@ -1,83 +1,100 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Georlan - Ideias em Movimento"/>
+  <img src="./assets/banner.svg" width="100%" alt="Georlan"/>
 </p>
 
 <p align="center">
-  <em>« Tudo é impossível, até ser trivial. »</em>
+  <strong>"Tudo é impossível, até ser trivial"</strong>
 </p>
 
 <br/>
 
-### ⚙️ Sobre o Laboratório
+## Perfil
 
-Sou estudante de **Mecatrônica Industrial**, garçom e um construtor obstinado. Divido meus dias entre a operação intensa de restaurante, a bancada de eletrônica e o terminal de código — sempre buscando entender como as coisas funcionam a fundo para depois criar minha própria versão do zero.
+Estudante de Tecnologia em Mecatrônica Industrial no IFCE (Campus Limoeiro do Norte) e garçom. 
 
-Meu trabalho se move no ponto de encontro entre **software, mecânica, eletrônica e matemática**. Não crio projetos por catálogo: crio para resolver problemas reais da minha rotina ou simplesmente para responder à pergunta: *“será que eu consigo fazer isso sozinho?”*
+Construo sistemas físicos e digitais a partir do zero, integrando software, eletrônica, mecânica e matemática. Projetos orientados a resolver problemas práticos e testar limites de engenharia de forma independente.
 
 ---
 
-### 🏆 Projeto Central
+## Projeto Principal
 
 <p align="center">
   <a href="https://github.com/Georlan/sistema-gourmet-bistro">
-    <img src="./assets/koma-card.svg" width="100%" alt="Kôma - Sistema de Gestão para Restaurantes"/>
+    <img src="./assets/koma-card.svg" width="100%" alt="Kôma Bistro"/>
   </a>
 </p>
 
-> **[Kôma](https://github.com/Georlan/sistema-gourmet-bistro)** é um sistema de gestão e operação para restaurantes nascido da vivência prática. Não foi planejado em uma sala de reuniões corporativa, mas sim construído por quem vive a correria real do salão, do atendimento e da cozinha todos os dias.
+**Kôma**: Sistema de gestão operacional para restaurantes desenvolvido com base na vivência diária dentro da operação (atendimento, caixa e cozinha). Arquitetura projetada para alta disponibilidade e fluxo contínuo de pedidos.
 
 ---
 
-### 🔬 Bancada de Projetos & Protótipos
+## Projetos e Protótipos
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4>⚙️ <a href="https://github.com/Georlan/cnc-plotter-28byj48">CNC Plotter 28BYJ-48</a></h4>
-      <p>Máquina CNC projetada e calibrada do zero. Modelagem paramétrica em <strong>OpenSCAD</strong>, controle de motores de passo, cinemática e firmware físico.</p>
+      <h3>CNC Plotter 28BYJ-48</h3>
+      <p>Máquina CNC desenvolvida do zero. Modelagem 3D paramétrica em OpenSCAD, cinemática, controle de motores de passo e firmware embarcado.</p>
+      <p><a href="https://github.com/Georlan/cnc-plotter-28byj48">Ver repositório</a></p>
     </td>
     <td width="33%" valign="top">
-      <h4>🤖 Jarvis Local</h4>
-      <p>Minha exploração prática em <strong>inteligência artificial local</strong>. Um assistente que roda diretamente no hardware, com autonomia, privacidade e automação de rotinas.</p>
+      <h3>Jarvis Local</h3>
+      <p>Assistente de inteligência artificial executado inteiramente em hardware local, com processamento off-cloud para automação e privacidade.</p>
     </td>
     <td width="33%" valign="top">
-      <h4>☀️ <a href="https://github.com/Georlan/jaguaribe-solar">Jaguaribe Solar</a></h4>
-      <p>Tecnologia e modelagem energética desenvolvidas sob medida para o potencial e a realidade solar do <strong>Vale do Jaguaribe</strong>.</p>
+      <h3>Jaguaribe Solar</h3>
+      <p>Modelagem matemática e software para dimensionamento e análise de geração de energia fotovoltaica focado no Vale do Jaguaribe.</p>
+      <p><a href="https://github.com/Georlan/jaguaribe-solar">Ver repositório</a></p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🏅 Base Científica & Conquistas
+## Conquistas
 
-A paixão por exatas e experimentação começou muito antes da primeira linha de código:
-
-- 🌌 **OBA (Olimpíada Brasileira de Astronomia e Astronáutica)** — Medalhista e apaixonado por astrofísica e mecânica celeste.
-- 📐 **Olimpíadas de Matemática & Ciências** — Trajetória construída no gosto por resolver problemas difíceis e encontrar padrões onde a maioria vê caos.
-
----
-
-### 💡 Inspirações & Arquétipos
-
-Os personagens e mentes que moldaram minha visão sobre invenção, ciência e persistência:
-
-- **Tony Stark** — O herói dos heróis. Despertou minha admiração pela capacidade de transformar uma oficina em um centro de criação do impossível.
-- **Edward Elric** (*Fullmetal Alchemist*) — A prova de que o estudo disciplinado e o domínio dos livros de ciência se transformam em habilidade prática real.
-- **Senku Ishigami** (*Dr. STONE*) — A ciência aplicada como a maior arma da humanidade para reconstruir e compreender o mundo passo a passo com 10 bilhões por cento de determinação.
-- **Viktor** (*Arcane*) — A recusa absoluta em aceitar limites biológicos ou circunstanciais como definitivos.
-- **Ryland Grace** (*Project Hail Mary*) — A demonstração de que raciocínio metódico, trabalho duro e cooperação superam qualquer adversidade em escala cósmica.
+- **3× OBA**: Olimpíada Brasileira de Astronomia e Astronáutica
+- **3× ONC**: Olimpíada Nacional de Ciências
+- **2× Canguru de Matemática**: Concurso Internacional Canguru de Matemática
 
 ---
 
-### 🎮 Lado Gamer & Persistência
+## Inspirações
 
-- **Completista e focado**: O mesmo foco de buscar 100% das conquistas e zerar desafios difíceis é o que mantém os motores de passo calibrados e o código refinado de madrugada.
-- **Favoritos**: *Resident Evil 4*, jogos de progressão intensa, atmosfera de sci-fi e suspense tático.
-- 🕹️ [Perfil na Steam](https://steamcommunity.com/) *(discreto, onde os desafios continuam fora da bancada)*
+- **Tony Stark**: A referência central de inventividade, engenharia e resolução prática através do intelecto.
+- **Edward Elric (Fullmetal Alchemist)**: A disciplina de estudar dezenas de livros científicos desde cedo e converter teoria em aplicação real.
+- **Senku Ishigami (Dr. STONE)**: O uso do método científico, raciocínio lógico e experimentação para solucionar qualquer obstáculo.
+- **Viktor (Arcane)**: A determinação de superar limitações físicas e biológicas por meio da ciência e da tecnologia.
+- **Ryland Grace (Project Hail Mary)**: A demonstração de que o trabalho metódico de dois indivíduos pode salvar mundos, mostrando que qualquer pessoa se torna indispensável diante do problema certo.
+
+---
+
+## Tecnologias e Áreas de Atuação
+
+- **Hardware e Automação**: C, C++, Arduino, ESP32, Motores de Passo, Circuitos Eletrônicos, OpenSCAD
+- **Software e Backend**: TypeScript, JavaScript, Python, FastAPI, React, Next.js, Node.js, SQL
+- **Matemática Aplicada**: Física Mecânica, Geometria Analítica, Cálculo, Otimização
+
+---
+
+## Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Georlan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9" alt="Georlan GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Georlan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=C9D1D9" alt="Georlan Top Languages" />
+</p>
+
+---
+
+## Jogos e Persistência
+
+Perfil focado em jogos de progressão, desafio e atmosfera tática, com histórico completista (100% de conquistas):
+
+- **Títulos principais**: Resident Evil 4 (2005 e Remake), Resident Evil 3, Devil May Cry, Final Fantasy XV, Hollow Knight, Cell to Singularity, Cookie Clicker.
+- Perfil Steam: [Accountsgeo](https://steamcommunity.com/id/Accountsgeo) | [YourGamerProfile](https://yourgamerprofile.com/Accounts)
 
 ---
 
 <p align="center">
-  <sub>Construído entre código, motores e matemática // Ceará, Brasil 🇧🇷</sub>
+  <sub>Georlan Júnior | IFCE Limoeiro do Norte, Ceará, Brasil</sub>
 </p>
