@@ -10,13 +10,13 @@
 
 ## Perfil
 
-Estudante de Tecnologia em Mecatrônica Industrial no IFCE (Campus Limoeiro do Norte) e garçom. 
+Estudante de Tecnologia em Mecatrônica Industrial no IFCE (Campus Limoeiro do Norte) e garçom.
 
-Construo sistemas físicos e digitais a partir do zero, integrando software, eletrônica, mecânica e matemática. Projetos orientados a resolver problemas práticos e testar limites de engenharia de forma independente.
+Desenvolvo sistemas físicos e digitais do zero, integrando software, eletrônica, mecânica e matemática. Projetos orientados a resolver problemas práticos da minha rotina e testar limites de engenharia de forma independente.
 
 ---
 
-## Projeto Principal
+## Projeto Central
 
 <p align="center">
   <a href="https://github.com/Georlan/sistema-gourmet-bistro">
@@ -24,7 +24,7 @@ Construo sistemas físicos e digitais a partir do zero, integrando software, ele
   </a>
 </p>
 
-**Kôma**: Sistema de gestão operacional para restaurantes desenvolvido com base na vivência diária dentro da operação (atendimento, caixa e cozinha). Arquitetura projetada para alta disponibilidade e fluxo contínuo de pedidos.
+**Kôma**: Sistema de gestão operacional para restaurantes desenvolvido a partir da vivência direta na operação de salão, atendimento e cozinha. Arquitetura voltada para alta disponibilidade e controle de fluxo de pedidos.
 
 ---
 
@@ -35,16 +35,16 @@ Construo sistemas físicos e digitais a partir do zero, integrando software, ele
     <td width="33%" valign="top">
       <h3>CNC Plotter 28BYJ-48</h3>
       <p>Máquina CNC desenvolvida do zero. Modelagem 3D paramétrica em OpenSCAD, cinemática, controle de motores de passo e firmware embarcado.</p>
-      <p><a href="https://github.com/Georlan/cnc-plotter-28byj48">Ver repositório</a></p>
+      <p><a href="https://github.com/Georlan/cnc-plotter-28byj48">Repositório</a></p>
     </td>
     <td width="33%" valign="top">
       <h3>Jarvis Local</h3>
-      <p>Assistente de inteligência artificial executado inteiramente em hardware local, com processamento off-cloud para automação e privacidade.</p>
+      <p>Assistente de inteligência artificial executado em hardware local, com processamento off-cloud para automação de tarefas e privacidade.</p>
     </td>
     <td width="33%" valign="top">
       <h3>Jaguaribe Solar</h3>
       <p>Modelagem matemática e software para dimensionamento e análise de geração de energia fotovoltaica focado no Vale do Jaguaribe.</p>
-      <p><a href="https://github.com/Georlan/jaguaribe-solar">Ver repositório</a></p>
+      <p><a href="https://github.com/Georlan/jaguaribe-solar">Repositório</a></p>
     </td>
   </tr>
 </table>
@@ -53,45 +53,36 @@ Construo sistemas físicos e digitais a partir do zero, integrando software, ele
 
 ## Conquistas
 
-- **3× OBA**: Olimpíada Brasileira de Astronomia e Astronáutica
-- **3× ONC**: Olimpíada Nacional de Ciências
-- **2× Canguru de Matemática**: Concurso Internacional Canguru de Matemática
+* 3× OBA (Olimpíada Brasileira de Astronomia e Astronáutica)
+* 3× ONC (Olimpíada Nacional de Ciências)
+* 2× Canguru de Matemática
 
 ---
 
 ## Inspirações
 
-- **Tony Stark**: A referência central de inventividade, engenharia e resolução prática através do intelecto.
-- **Edward Elric (Fullmetal Alchemist)**: A disciplina de estudar dezenas de livros científicos desde cedo e converter teoria em aplicação real.
-- **Senku Ishigami (Dr. STONE)**: O uso do método científico, raciocínio lógico e experimentação para solucionar qualquer obstáculo.
-- **Viktor (Arcane)**: A determinação de superar limitações físicas e biológicas por meio da ciência e da tecnologia.
-- **Ryland Grace (Project Hail Mary)**: A demonstração de que o trabalho metódico de dois indivíduos pode salvar mundos, mostrando que qualquer pessoa se torna indispensável diante do problema certo.
+* **Tony Stark**: Referência em inventividade, inteligência e prototipagem na oficina.
+* **Edward Elric (Fullmetal Alchemist)**: Dedicação ao estudo científico desde a infância e conversão de conhecimento teórico em criação prática.
+* **Senku Ishigami (Dr. STONE)**: Referência como cientista; resolução metódica de problemas através do método científico e experimentação.
+* **Viktor (Arcane)**: Superação de limitações físicas por meio do avanço científico e tecnológico.
+* **Ryland Grace (Project Hail Mary)**: Demonstração de que o trabalho duro e coordenado pode mudar o destino de planetas, e que qualquer pessoa pode se tornar crucial diante do desafio certo.
 
 ---
 
 ## Tecnologias e Áreas de Atuação
 
-- **Hardware e Automação**: C, C++, Arduino, ESP32, Motores de Passo, Circuitos Eletrônicos, OpenSCAD
-- **Software e Backend**: TypeScript, JavaScript, Python, FastAPI, React, Next.js, Node.js, SQL
-- **Matemática Aplicada**: Física Mecânica, Geometria Analítica, Cálculo, Otimização
-
----
-
-## Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Georlan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9" alt="Georlan GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Georlan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=C9D1D9" alt="Georlan Top Languages" />
-</p>
+* **Hardware e Automação**: C, C++, Arduino, ESP32, Motores de Passo, Circuitos Eletrônicos, OpenSCAD
+* **Software e Backend**: TypeScript, JavaScript, Python, FastAPI, React, Next.js, Node.js, SQL
+* **Matemática Aplicada**: Física Mecânica, Geometria Analítica, Cálculo, Otimização
 
 ---
 
 ## Jogos e Persistência
 
-Perfil focado em jogos de progressão, desafio e atmosfera tática, com histórico completista (100% de conquistas):
+Perfil completista focado em desafios técnicos, progressão e atmosfera tática:
 
-- **Títulos principais**: Resident Evil 4 (2005 e Remake), Resident Evil 3, Devil May Cry, Final Fantasy XV, Hollow Knight, Cell to Singularity, Cookie Clicker.
-- Perfil Steam: [Accountsgeo](https://steamcommunity.com/id/Accountsgeo) | [YourGamerProfile](https://yourgamerprofile.com/Accounts)
+* **Títulos principais**: Resident Evil 4 (2005 e Remake), Resident Evil 3, Devil May Cry, Final Fantasy XV, Hollow Knight, Cell to Singularity, Cookie Clicker.
+* **Perfis**: [Steam (Accountsgeo)](https://steamcommunity.com/id/Accountsgeo) | [YourGamerProfile](https://yourgamerprofile.com/Accounts)
 
 ---
 
