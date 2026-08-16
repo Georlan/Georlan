@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Georlan Júnior - Mecatrônica e Sistemas Embarcados"/>
+  <img src="./assets/banner-v2.svg" width="100%" alt="Georlan Júnior - Mecatrônica e Sistemas Embarcados"/>
 </p>
 
 ### Sobre
