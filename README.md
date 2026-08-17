@@ -59,9 +59,9 @@ Dados & Infraestrutura        │ PostgreSQL, Supabase, SQLite, Linux, Git/GitHu
 
 * **Graduação:** Tecnologia em Mecatrônica Industrial — Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)
 * **Olimpíadas Científicas:**
-  * 3× Premiado na **OBA** (Olimpíada Brasileira de Astronomia e Astronáutica)
-  * 3× Premiado na **ONC** (Olimpíada Nacional de Ciências)
-  * 2× Premiado no **Canguru de Matemática**
+  * **OBA** (Olimpíada Brasileira de Astronomia e Astronáutica): Medalhas de Ouro, Prata e Bronze
+  * **ONC** (Olimpíada Nacional de Ciências): 3× Medalha de Prata
+  * **Canguru de Matemática**: 2× Menção Honrosa
 
 ---
 
