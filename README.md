@@ -1,6 +1,6 @@
 ## Georlan Júnior
 
-Estudante de Tecnologia em Mecatrônica Industrial no IFCE (Campus Limoeiro do Norte). Atuo no desenvolvimento de sistemas embarcados, eletrônica de potência, controle dinâmico e software.
+Estudante de Tecnologia em Mecatrônica Industrial no IFCE (Campus Limoeiro do Norte), com atuação multidisciplinar no desenvolvimento de hardware, sistemas embarcados, controle, modelagem física, software e prototipagem.
 
 ---
 
