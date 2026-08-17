@@ -7,8 +7,8 @@ Estudante de Tecnologia em Mecatrônica Industrial no IFCE (Campus Limoeiro do N
 ### Competências & Stack Técnica
 
 ```text
-Eletrônica & Potência         │ Conversores Estáticos, Acionamentos, Circuitos Analógicos/Digitais, KiCad, Qucs-S, ngspice
-Sistemas Embarcados           │ C, C++, PlatformIO, STM32, ESP32, Arduino, Protocolos (UART, SPI, I²C), PWM
+Eletrônica & Potência         │ Conversores Estáticos, Acionamentos, Circuitos Analógicos/Digitais, KiCad, Psim
+Sistemas Embarcados           │ C, C++, PlatformIO, STM32, ESP32, Arduino, Protocolos(UART, SPI, I²C), PWM
 Controle & Modelagem          │ Sistemas Dinâmicos, OpenModelica, MATLAB/Simulink, python-control, Modelagem e Simulação
 Matemática Computacional      │ Python (NumPy, SciPy, SymPy, Pandas), Métodos Numéricos, Otimização, JupyterLab
 Mecânica & Prototipagem       │ FreeCAD, OpenSCAD, Análise Estrutural (CalculiX/FEM), Modelagem Paramétrica, Impressão 3D
