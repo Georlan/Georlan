@@ -9,7 +9,7 @@ Estudante de Tecnologia em Mecatrônica Industrial no IFCE (Campus Limoeiro do N
 ```text
 Eletrônica & Potência         │ Conversores Estáticos, Acionamentos Elétricos, Circuitos Analógicos/Digitais, KiCad, PSIM, ngspice
 Sistemas Embarcados           │ C, C++, PlatformIO, STM32, ESP32, Arduino, Comunicação Serial (UART, SPI, I²C)
-Controle & Dinâmica           │ Sistemas Dinâmicos, MATLAB/Simulink, OpenModelica, python-control, Identificação
+Controle & Dinâmica           │ MATLAB/Simulink, OpenModelica, python-control, Modelica Standard Library
 Computação Científica         │ Python (NumPy, SciPy, SymPy, Pandas), Métodos Numéricos, Otimização, JupyterLab
 Mecânica & CAD                │ FreeCAD, OpenSCAD, Análise Estrutural (CalculiX/FEM), Modelagem Paramétrica, Impressão 3D (FDM)
 Engenharia de Software & Web  │ TypeScript, JavaScript, Python (FastAPI), React, Next.js, APIs REST, WebSockets
