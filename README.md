@@ -41,14 +41,16 @@ Desenvolvo projetos integrando as quatro disciplinas fundamentais da mecatrônic
 
 ---
 
-### 💻 Stack Técnica & Habilidades
+### 💻 Competências & Stack Técnica
 
 ```text
-Eletromecânica & Potência    │ KiCad (Schematic/PCB), Qucs-S, ngspice, Pontes H, Gate Drivers, Fontes Chaveadas
-Sistemas Embarcados          │ C, C++, PlatformIO, Arduino, ESP32, STM32, Comunicação Serial (UART/SPI/I2C), PWM
-Matemática & Controle        │ Python (NumPy, SciPy, SymPy, python-control, Pandas), OpenModelica, Dinâmica de Sistemas
-Mecânica & CAD               │ FreeCAD, CalculiX (FEM), OpenSCAD, Manufatura Aditiva (FDM/3D)
-Software & Infraestrutura    │ TypeScript, JavaScript, Python (FastAPI), React, Next.js, PostgreSQL, Linux, Git
+Eletrônica & Potência         │ Conversores Estáticos, Acionamentos, Circuitos Analógicos/Digitais, KiCad, Qucs-S, ngspice
+Sistemas Embarcados           │ C, C++, PlatformIO, STM32, ESP32, Arduino, Protocolos (UART, SPI, I²C), PWM
+Controle & Modelagem          │ Sistemas Dinâmicos, OpenModelica, MATLAB/Simulink, python-control, Modelagem e Simulação
+Matemática Computacional      │ Python (NumPy, SciPy, SymPy, Pandas), Métodos Numéricos, Otimização, JupyterLab
+Mecânica & Prototipagem       │ FreeCAD, OpenSCAD, Análise Estrutural (CalculiX/FEM), Modelagem Paramétrica, Impressão 3D
+Engenharia de Software & Web  │ TypeScript, JavaScript, Python (FastAPI), React, Next.js, APIs REST, WebSockets
+Dados & Infraestrutura        │ PostgreSQL, Supabase, SQLite, Linux, Git/GitHub, CI/CD, Docker
 ```
 
 ---
