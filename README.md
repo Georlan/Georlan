@@ -1,38 +1,34 @@
 ## Georlan Júnior
 
-**Mecatrônica Industrial @ IFCE**  
-Engenharia · Ciência · Computação
-
+**Mecatrônica Industrial @ IFCE** · Engenharia · Ciência · Computação  
 Hardware, software, modelagem e experimentação.
 
 > Tudo é impossível, até ser trivial.
 
 ---
 
-### Áreas
+### 🛠 Linguagens & Ferramentas
 
-**Mecatrônica** · **Eletrônica** · **Sistemas Embarcados** · **Controle** · **Computação Científica** · **CAD & Prototipagem** · **Software** · **Pesquisa Científica**
-
-### Stack
-
-<p>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,arduino,matlab,react,ts,js,nextjs,fastapi,postgres,supabase,sqlite,docker,git,github,linux,vscode,latex&perline=10" alt="Tecnologias e ferramentas" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,arduino,matlab,react,ts,fastapi,postgres,supabase,docker,git,linux,latex&perline=20" alt="Linguagens e ferramentas" />
   </a>
 </p>
 
-### GitHub
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Georlan&theme=github_dark" alt="Estatísticas do GitHub" />
-  <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Georlan&theme=github_dark" alt="Linguagens nos repositórios" />
+  <img width="58%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Georlan&theme=github_dark" alt="Linguagens mais utilizadas nos commits" />
 </p>
 
 <p align="center">
-  <img width="52%" src="https://streak-stats.vercel.app?user=Georlan&theme=dark&hide_border=true" alt="Sequência de contribuições no GitHub" />
+  <img width="62%" src="https://streak-stats.vercel.app?user=Georlan&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-### Formação & conquistas
+---
 
-**Tecnologia em Mecatrônica Industrial — IFCE Campus Limoeiro do Norte**  
-OBA — Ouro, Prata e Bronze · ONC — 3× Prata · Canguru de Matemática — 2× Menção Honrosa
+<p align="center">
+  <b>OBA</b> — Ouro, Prata e Bronze · <b>ONC</b> — 3× Prata · <b>Canguru de Matemática</b> — 2× Menção Honrosa
+</p>
