@@ -29,7 +29,7 @@ Hardware, software, modelagem e experimentação.
 </p>
 
 <p align="center">
-  <img width="52%" src="./profile/streak.svg" alt="Sequência de contribuições no GitHub" />
+  <img width="52%" src="https://streak-stats.vercel.app?user=Georlan&theme=dark&hide_border=true" alt="Sequência de contribuições no GitHub" />
 </p>
 
 ### Formação & conquistas
