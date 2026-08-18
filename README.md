@@ -3,26 +3,17 @@
 **Mecatrônica Industrial @ IFCE**  
 Engenharia · Ciência · Computação
 
-Desenvolvo sistemas integrando **hardware, software, modelagem e experimentação**.
+Hardware, software, modelagem e experimentação.
 
 > Tudo é impossível, até ser trivial.
 
 ---
 
-### Áreas de atuação
+### Áreas
 
-```text
-Engenharia Mecatrônica        │ Eletrônica, Eletrotécnica, Mecânica, Automação, Instrumentação, Sensores & Atuadores
-Eletrônica & Potência         │ Circuitos Analógicos/Digitais, Conversores, Acionamentos, KiCad, Qucs-S, ngspice, PSIM
-Sistemas Embarcados & IoT     │ C/C++, Arduino, ESP32, STM32, PlatformIO, UART, SPI, I²C, PWM
-Controle & Modelagem          │ Sistemas Dinâmicos, MATLAB/Simulink, OpenModelica, python-control, Modelagem e Simulação
-Computação Científica         │ Python, NumPy, SciPy, SymPy, Pandas, Métodos Numéricos, Modelagem Matemática
-Mecânica, CAD & Prototipagem  │ FreeCAD, OpenSCAD, CalculiX/FEM, Modelagem Paramétrica, Impressão 3D FDM
-Software & Infraestrutura     │ FastAPI, TypeScript, JavaScript, React, Next.js, PostgreSQL, Supabase, Linux, Git/GitHub, Docker
-Pesquisa Científica           │ Experimentação, Análise de Dados, Validação Experimental e Escrita Científica
-```
+**Mecatrônica** · **Eletrônica** · **Sistemas Embarcados** · **Controle** · **Computação Científica** · **CAD & Prototipagem** · **Software** · **Pesquisa Científica**
 
-### Tecnologias
+### Stack
 
 <p>
   <a href="https://skillicons.dev">
@@ -33,15 +24,15 @@ Pesquisa Científica           │ Experimentação, Análise de Dados, Validaç
 ### GitHub
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Georlan&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Georlan&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5&theme=github_dark&hide_border=true&custom_title=Linguagens%20nos%20reposit%C3%B3rios" alt="Linguagens nos repositórios" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Georlan&theme=github_dark" alt="Estatísticas do GitHub" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Georlan&theme=github_dark" alt="Linguagens nos repositórios" />
 </p>
 
 <p>
-  <img height="180" src="https://streak-stats.demolab.com/?user=Georlan&theme=dark&hide_border=true&locale=pt_BR" alt="Sequência de contribuições no GitHub" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=Georlan&theme=dark&hide_border=true" alt="Sequência de contribuições no GitHub" />
 </p>
 
 ### Formação & conquistas
 
 **Tecnologia em Mecatrônica Industrial — IFCE Campus Limoeiro do Norte**  
-Olimpíadas científicas: **OBA** — Ouro, Prata e Bronze · **ONC** — 3× Prata · **Canguru de Matemática** — 2× Menção Honrosa
+OBA — Ouro, Prata e Bronze · ONC — 3× Prata · Canguru de Matemática — 2× Menção Honrosa
