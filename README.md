@@ -23,13 +23,13 @@ Hardware, software, modelagem e experimentação.
 
 ### GitHub
 
-<p>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Georlan&theme=github_dark" alt="Estatísticas do GitHub" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Georlan&theme=github_dark" alt="Linguagens nos repositórios" />
+<p align="center">
+  <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Georlan&theme=github_dark" alt="Estatísticas do GitHub" />
+  <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Georlan&theme=github_dark" alt="Linguagens nos repositórios" />
 </p>
 
-<p>
-  <img width="60%" src="https://streak-stats.demolab.com?user=Georlan&theme=dark&hide_border=true" alt="Sequência de contribuições no GitHub" />
+<p align="center">
+  <img width="52%" src="./profile/streak.svg" alt="Sequência de contribuições no GitHub" />
 </p>
 
 ### Formação & conquistas
