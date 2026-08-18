@@ -1,27 +1,47 @@
 ## Georlan Júnior
 
-Estudante de Tecnologia em Mecatrônica Industrial no IFCE (Campus Limoeiro do Norte), com atuação multidisciplinar no desenvolvimento de hardware, sistemas embarcados, controle, modelagem física, software e prototipagem.
+**Mecatrônica Industrial @ IFCE**  
+Engenharia · Ciência · Computação
+
+Desenvolvo sistemas integrando **hardware, software, modelagem e experimentação**.
+
+> Tudo é impossível, até ser trivial.
 
 ---
 
-### Competências & Stack Técnica
+### Áreas de atuação
 
 ```text
-Eletrônica & Potência         │ Conversores Estáticos, Acionamentos, Circuitos Analógicos/Digitais, KiCad, PSIM
-Sistemas Embarcados           │ C, C++, PlatformIO, STM32, ESP32, Arduino, Comunicação Serial (UART, SPI, I²C)
-Controle & Dinâmica           │ MATLAB/Simulink, OpenModelica, python-control, Modelica Standard Library
-Computação Científica         │ Python (NumPy, SciPy, SymPy, Pandas), Métodos Numéricos, Otimização, JupyterLab
-Mecânica & CAD                │ FreeCAD, OpenSCAD, Análise Estrutural (CalculiX/FEM), Modelagem 3D, Impressão 3D
-Engenharia de Software & Web  │ TypeScript, JavaScript, Python (FastAPI), React, Next.js, APIs REST, WebSockets
-Dados & Infraestrutura        │ PostgreSQL, Supabase, SQLite, Linux, Git/GitHub, CI/CD, Docker
+Engenharia Mecatrônica        │ Eletrônica, Eletrotécnica, Mecânica, Automação, Instrumentação, Sensores & Atuadores
+Eletrônica & Potência         │ Circuitos Analógicos/Digitais, Conversores, Acionamentos, KiCad, Qucs-S, ngspice, PSIM
+Sistemas Embarcados & IoT     │ C/C++, Arduino, ESP32, STM32, PlatformIO, UART, SPI, I²C, PWM
+Controle & Modelagem          │ Sistemas Dinâmicos, MATLAB/Simulink, OpenModelica, python-control, Modelagem e Simulação
+Computação Científica         │ Python, NumPy, SciPy, SymPy, Pandas, Métodos Numéricos, Modelagem Matemática
+Mecânica, CAD & Prototipagem  │ FreeCAD, OpenSCAD, CalculiX/FEM, Modelagem Paramétrica, Impressão 3D FDM
+Software & Infraestrutura     │ FastAPI, TypeScript, JavaScript, React, Next.js, PostgreSQL, Supabase, Linux, Git/GitHub, Docker
+Pesquisa Científica           │ Experimentação, Análise de Dados, Validação Experimental e Escrita Científica
 ```
 
----
+### Tecnologias
 
-### Formação & Conquistas
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,arduino,matlab,react,ts,js,nextjs,fastapi,postgres,supabase,sqlite,docker,git,github,linux,vscode,latex&perline=10" alt="Tecnologias e ferramentas" />
+  </a>
+</p>
 
-* **Graduação:** Tecnologia em Mecatrônica Industrial — IFCE Campus Limoeiro do Norte
-* **Olimpíadas Científicas:**
-  * **OBA** (Olimpíada Brasileira de Astronomia e Astronáutica): Medalhas de Ouro, Prata e Bronze
-  * **ONC** (Olimpíada Nacional de Ciências): 3× Medalha de Prata
-  * **Canguru de Matemática**: 2× Menção Honrosa
+### GitHub
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Georlan&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Georlan&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5&theme=github_dark&hide_border=true&custom_title=Linguagens%20nos%20reposit%C3%B3rios" alt="Linguagens nos repositórios" />
+</p>
+
+<p>
+  <img height="180" src="https://streak-stats.demolab.com/?user=Georlan&theme=dark&hide_border=true&locale=pt_BR" alt="Sequência de contribuições no GitHub" />
+</p>
+
+### Formação & conquistas
+
+**Tecnologia em Mecatrônica Industrial — IFCE Campus Limoeiro do Norte**  
+Olimpíadas científicas: **OBA** — Ouro, Prata e Bronze · **ONC** — 3× Prata · **Canguru de Matemática** — 2× Menção Honrosa
