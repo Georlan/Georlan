@@ -1,38 +1,44 @@
-## Georlan Júnior
+# Georlan Júnior
 
-**Mecatrônica Industrial @ IFCE**  
-Engenharia · Ciência · Computação
+Mecatrônica Industrial · IFCE, Campus Limoeiro do Norte
 
-Hardware, software, modelagem e experimentação.
+Trabalho com software, eletrônica e modelagem mecânica. Por aqui, reúno o desenvolvimento do **KÔMA**, projetos de fabricação e simulações para estudar como as coisas funcionam.
 
-> Tudo é impossível, até ser trivial.
+## Projetos
+
+### [KÔMA](https://github.com/Georlan/sistema-gourmet-bistro)
+Sistema de gestão para restaurantes e bistrôs, em desenvolvimento. Reúne caixa, mesas, pedidos, cozinha e impressão térmica.
+
+<sub>Python · FastAPI · React · TypeScript · PostgreSQL</sub>
+
+### [Plotter CNC](https://github.com/Georlan/cnc-plotter-28byj48)
+Projeto de uma plotter para papel A5 com motores 28BYJ-48 e peças impressas em 3D. Modelagem paramétrica, testes de tolerância e guias de montagem.
+
+<sub>OpenSCAD · CAD · Fabricação</sub>
+
+### [TorqueSimu](https://github.com/Georlan/torquesimu)
+Simulador de rotação e torque: ajuste massas, distâncias e amortecimento e acompanhe o movimento, as forças e os gráficos.
+
+<sub>TypeScript · React · Three.js · Integração numérica</sub>
+
+### [Contator 3D](https://github.com/Georlan/contator-3d-interativo)
+Modelo didático interativo de uma chave contatora. Permite explorar os componentes, abrir a vista explodida e observar a animação de acionamento.
+
+<sub>JavaScript · Three.js · Eletricidade industrial</sub>
 
 ---
 
-### Áreas
+**Outras ferramentas que uso:** C, C++, Arduino, MATLAB, Linux, Git e LaTeX.
 
-**Mecatrônica** · **Eletrônica** · **Sistemas Embarcados** · **Controle** · **Computação Científica** · **CAD & Prototipagem** · **Software** · **Pesquisa Científica**
+<details>
+<summary>Formação e olimpíadas científicas</summary>
 
-### Stack
+Tecnologia em Mecatrônica Industrial — IFCE, Campus Limoeiro do Norte.
 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,arduino,matlab,react,ts,js,nextjs,fastapi,postgres,supabase,sqlite,docker,git,github,linux,vscode,latex&perline=10" alt="Tecnologias e ferramentas" />
-  </a>
-</p>
+- **OBA:** ouro, prata e bronze.
+- **ONC:** três medalhas de prata.
+- **Canguru de Matemática:** duas menções honrosas.
 
-### GitHub
+</details>
 
-<p align="center">
-  <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Georlan&theme=github_dark" alt="Estatísticas do GitHub" />
-  <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Georlan&theme=github_dark" alt="Linguagens nos repositórios" />
-</p>
-
-<p align="center">
-  <img width="52%" src="https://streak-stats.vercel.app?user=Georlan&theme=dark&hide_border=true" alt="Sequência de contribuições no GitHub" />
-</p>
-
-### Formação & conquistas
-
-**Tecnologia em Mecatrônica Industrial — IFCE Campus Limoeiro do Norte**  
-OBA — Ouro, Prata e Bronze · ONC — 3× Prata · Canguru de Matemática — 2× Menção Honrosa
+> Tudo é impossível, até ser trivial.
